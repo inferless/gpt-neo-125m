@@ -32,7 +32,6 @@ Log in to your inferless account, select the workspace you want the model to be 
 
 Enter all the required details to Import your model. Refer [this link](https://docs.inferless.com/integrations/git-custom-code/git--custom-code) for more information on model import.
 
----
 ## Customizing the Code
 Open the `app.py` file. This contains the main code for inference. It has three main functions, initialize, infer and finalize.
 
